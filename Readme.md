@@ -1,0 +1,1 @@
+# Example Dockerfile to use SITL with ArduPilot
